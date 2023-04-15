@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wtheed
 - 👀 I’m an Engineering student
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning Python
 - 📫 How to reach me 57#7966
 
 <!---
