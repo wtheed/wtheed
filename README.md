@@ -1,9 +1,1 @@
-- 👋 Hi, I’m @wtheed
-- 👀 I’m an Engineering student
-- 🌱 I’m currently learning Python
-- 📫 How to reach me 57#7966
-
-<!---
-wtheed/wtheed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![dino](https://user-images.githubusercontent.com/95460392/235337437-fd9d1d22-7f3e-49ba-bab0-728757282484.gif)
