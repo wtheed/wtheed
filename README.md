@@ -1,1 +1,1 @@
-Mechanical Engineering Student with an interest in software.
+Mechanical engineering student with an interest in software.
